@@ -1,0 +1,16 @@
+# Default: everything requires your review
+*                 @jonathanD27868
+
+# HTML
+*.html            @jonathanD27868
+
+# CSS
+*.css             @jonathanD27868
+
+# JavaScript
+*.js              @jonathanD27868
+
+# (Optional) common folders if you use them
+/src/             @jonathanD27868
+/public/          @jonathanD27868
+/assets/          @jonathanD27868
